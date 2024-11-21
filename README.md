@@ -3,7 +3,7 @@
 🚀 Robotics Trainer | 💻 Web Developer | 🌟 Open-Source Contributor
 
 - 🔭 Currently working on [Home Finance Tracker](https://github.com/SheikhSaif2305/Home-Finance-Tracker)
-- 🌱 Experienced in Fask Express.js and Backend Development
+- 🌱 Experienced in Flask and Express.js 
 - ⚡ Fun fact: I’m passionate about building battle bots!
 
 ## My Tech Stack:
