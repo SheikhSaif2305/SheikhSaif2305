@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Saif! 👋
 
-<!--
-**SheikhSaif2305/SheikhSaif2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Robotics Trainer | 💻 Web Developer | 🌟 Open-Source Contributor
 
-Here are some ideas to get you started:
+- 🔭 Currently working on [Home Finance Tracker](https://github.com/SheikhSaif2305/Home-Finance-Tracker)
+- 🌱 Experienced in Fask Express.js and Backend Development
+- ⚡ Fun fact: I’m passionate about building battle bots!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Tech Stack:
+- 🛠️  For BackEnd Development | Express.js, Nodejs, MySQL, Flask
+- 🤖 For Robotics | C++
+
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/sheikhsaif2305) 
