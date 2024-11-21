@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I’m passionate about building battle bots!
 
 ## My Tech Stack:
-- 🛠️  For BackEnd Development | Express.js, Nodejs, MySQL, Flask
-- 🤖 For Robotics | C++
+- 🛠️  For BackEnd Development | Express.js, Nodejs, MySQL, PosgreSQL, MongoDB, Flask and FastAPi 
+- 🤖 For Robotics | C++ and Python
 
 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/sheikhsaif2305) 
